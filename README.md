@@ -1,4 +1,6 @@
+<!---
 [![@saiyam07's Holopin board](https://holopin.io/api/user/board?user=saiyam07)](https://holopin.io/@saiyam07)
+--->
 - 👋 Hi, I’m Saiyam Chawla
 - 👀 I’m interested in Mobile Application Development, DSA and Open Source Contributions.
 - 🌱 I’m currently learning Flutter and DSA.
